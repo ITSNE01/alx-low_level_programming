@@ -4,10 +4,10 @@
  * This program prints alphabets in lowercase.
  * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 	char C;
-	
+
 	for (C = 'a'; C <= 'z'; C++)
 	{
 		if (C != 'q' && C != 'e')
