@@ -4,12 +4,12 @@
  * return: Always 0 (Success)
  */
 
-int main(void)
+int main()
 {
 	char A;
 
 	A = 'a';
-	while 
+	while
 		(A <= 'z') {
 			putchar(A);
 			A++;
