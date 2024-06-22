@@ -2,8 +2,8 @@
 /**
  * main - Entry point
  * This program prints all digit number of base
- * of base 10 starting from 0
- * Return : Always 0 (Success)
+ * of base 10 starting from 0.
+ * Return: Always return 0 (Success)
  */
 int main(void)
 {
