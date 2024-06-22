@@ -1,10 +1,12 @@
 #include<stdio.h>
 /**
  * main - Entry point
+ * Description : This program prints all lowercase letters
+ * of the alphabet, followed by a newline.
  * return: Always 0 (Success)
  */
 
-int main()
+int main(void)
 {
 	char A;
 
