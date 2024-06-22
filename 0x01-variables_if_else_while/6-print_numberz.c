@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - Entry point
- * This program does the same as last one but no 
+ * This program does the same as last one but no
  * char variables.
  * Return: Always 0 (Success)
  */
