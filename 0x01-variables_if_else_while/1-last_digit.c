@@ -3,6 +3,7 @@
 #include<stdio.h>
 /**
  * main - Entry level
+ * This code is for last digit
  * return: Always 0 (Success)
  */
 int main(void)
