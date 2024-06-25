@@ -3,12 +3,12 @@
 /**
  * _abs - computes the absolute value of an integer
  * @c: the character to be computed
- * Return: Absolute value of number or 0
+ * Return: Absolute value of number or zero
  */
 
 int _abs(int c)
 {
-	if (c > 0)
+	if (c < 0)
 	{
 	int absv;
 
